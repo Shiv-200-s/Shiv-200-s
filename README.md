@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shiv-200-s
-- 👀 I’m interested in web development and python development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my sanke game
-- 📫 How to reach me gmail:shivamogili20@gmail.com
+-  Hi, I’m @Shiv-200-s
+-  I’m interested in web development and python development
+-  I’m currently learning python
+-  I’m looking to collaborate on my sanke game
+-  How to reach me gmail:shivamogili20@gmail.com
 
 
 <!---
