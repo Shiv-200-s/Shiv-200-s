@@ -1,7 +1,7 @@
 -  Hi, I’m @Shiv-200-s
 -  I’m interested in web development and python development
 -  I’m currently learning python
--  I’m looking to collaborate on my sanke game
+-  I’m looking to collaborate on my url shortner project
 -  How to reach me gmail:shivamogili20@gmail.com
 
 
